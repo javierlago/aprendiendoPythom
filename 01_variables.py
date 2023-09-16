@@ -15,3 +15,4 @@ print(len(my_variable)) #Te dice el largo de la cadena
 
 #Variable en una sola linea
 
+
