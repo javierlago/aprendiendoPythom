@@ -16,6 +16,7 @@ print("Este es el valor de:", my_bool_variable)
 
 # Variable en una sola linea #
 name, surname, alias, age = "Javier", "Lago", "Reibax", 38
+print(age)
 
 print('Mi nombre es ', name, 'y me apellido', surname)
 
@@ -24,3 +25,4 @@ name = input('Como te llamas')
 age = input('Cuantos años tienes')
 
 print('Me llamo ', name, 'y mi edad es de ', age)
+
